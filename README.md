@@ -40,3 +40,4 @@ Each challenge may include one or more solutions using:
 I am a Data Analyst and Business Intelligence professional with 16 years of professional experience, specializing in Microsoft Excel, Power BI, Power Query, DAX, PostgreSQL, and Python.
 
 LinkedIn: https://www.linkedin.com/in/shahalam-analytics-excelbi/
+YouTube: https://www.youtube.com/@ShahAlamAnalytics
