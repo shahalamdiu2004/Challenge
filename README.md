@@ -1,5 +1,8 @@
 # Data Analytics Challenges
 
+The challenges were published by Excel BI on LinkedIn: 
+https://www.linkedin.com/in/excelbi/
+
 This repository contains practical data analytics challenges and solutions.
 
 The objective is to solve real-world and analytical problems using different data analytics tools and compare different approaches to solving the same problem.
